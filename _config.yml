@@ -1,9 +1,9 @@
 # Site settings
 title: okc Blog
 SEOTitle: okc | Blog
-header-img: img/post-bg-desk.jpg      #首页头部背景图片
+header-img: img/index-bg-kyrie.png      #首页头部背景图片
 email: kevin_okc@qq.com
-description: "A dreamer, not a doer."
+# description: "A dreamer, and a doer." 真正的description在index.html
 keyword: ""
 url: "https://okcokc.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
