@@ -1,7 +1,7 @@
 # Site settings
 title: okc Blog
 SEOTitle: okc | Blog
-header-img: img/index-bg-kyrie.png      #首页头部背景图片
+header-img: img/bg (1).jpg     #首页头部背景图片
 email: kevin_okc@qq.com
 # description: "A dreamer, and a doer." 真正的description在index.html
 keyword: ""
@@ -69,6 +69,7 @@ gitalk:
   owner: okcokc    #github用户名
   admin: okcokc
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  id: 'window.location.pathname'
 
 
 # 统计
